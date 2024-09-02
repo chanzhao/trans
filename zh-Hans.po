@@ -1,1 +1,13 @@
+#. Key:	00133B394CEE61D7DA7339B0A02913E4
+#. SourceLocation:	/Game/Battle/Maps/BattleLevel/Map103/CommonContainer/CommonContainer_Map103.CommonContainer_Map103:PersistentLevel.BP_LocationTipsArea27_26.LocationTips
+#: /Game/Battle/Maps/BattleLevel/Map103/CommonContainer/CommonContainer_Map103.CommonContainer_Map103:PersistentLevel.BP_LocationTipsArea27_26.LocationTips
+msgctxt ",00133B394CEE61D7DA7339B0A02913E4"
+msgid "进攻方出生点"
+msgstr "进攻方出生点"
 
+#. Key:	003611C14ED31622D5A393B2F5A12550
+#. SourceLocation:	/Game/Battle/Maps/BattleLevel/Map_TutorialLevel/Sequence/Battle_Seq_TutorialLevel_03.SequenceDirector_C:SequenceEvent__ENTRYPOINTSequenceDirector_9 [Script Bytecode]
+#: /Game/Battle/Maps/BattleLevel/Map_TutorialLevel/Sequence/Battle_Seq_TutorialLevel_03.SequenceDirector_C:SequenceEvent__ENTRYPOINTSequenceDirector_9 [Script Bytecode]
+msgctxt ",003611C14ED31622D5A393B2F5A12550"
+msgid "<cyan>井川樱</>：B点有敌人。"
+msgstr "<cyan>井川樱</>：B点有敌人。"
